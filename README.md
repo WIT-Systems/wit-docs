@@ -2,6 +2,5 @@
 
 > All instructions and documentations for WIT services
 
-## Table of Contents
-
+`Docs generator from: https://docsify.js.org`
 
