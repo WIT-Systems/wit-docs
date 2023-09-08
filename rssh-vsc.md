@@ -1,7 +1,7 @@
 # Remote SSH for Visual Studio Code
 
 ## Prerequisites
-- VPN Access
+- [VPN Access](VPN.md)
 - A virtual machine with login credentials ("user" and "IP")
 - Visual Studio Code with Remote-SSH plugin installed (Follow instructions below to install the plugin)
 
