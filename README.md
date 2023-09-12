@@ -5,13 +5,20 @@
 # Table of Contents
 
 - [Develop](#develop)
-  - [Commands](#commands)
-  - [Prerequisites](#prerequisites)
-  - [Start developing](#start-developing)
+    - [Prerequisites](#prerequisites)
+    - [Commands](#commands)
+    - [Start developing](#start-developing)
 
 # Develop
 
-The Docs repo is saved on Github and continuously updated. It's made with the docs generator Docsify.
+The Docs repo is saved on [Github](https://github.com/manu2107el/wit-docs) and continuously updated. It's made with the
+docs generator [Docsify](https://docsify.js.org/#/).
+
+### Prerequisites
+
+- Npm
+- Docsify CLI
+- Git
 
 ### Commands
 
@@ -19,10 +26,6 @@ The Docs repo is saved on Github and continuously updated. It's made with the do
     // Serve on localhost
     docsify serve .
 ```
-
-### Prerequisites
-
-- Npm
 
 ### Start developing
 
