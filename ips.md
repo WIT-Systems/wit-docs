@@ -12,8 +12,8 @@
 | `192.168.1.10` - `192.168.1.50` | Power, Infrastructure | Static |
 | `192.168.1.100` - `192.168.1.199` | User Devices | Dynamic (DHCP) |
 | `192.168.1.200` - `192.168.1.255` | Lights, Heaters | Dynamic (DHCP) |
-| `192.168.2.1` - `192.168.2.199` | Server Hosts | Static / Reserved |
-| `192.168.2.200` - `192.168.2.255` | Server IPMI Ports | Static / Reserved |
+| `192.168.2.1` - `192.168.2.199` | [Server Hosts](ip-blocks/serverhosts.md) | Static / Reserved |
+| `192.168.2.200` - `192.168.2.255` | [Server IPMI Ports](ip-blocks/ipmi.md) | Static / Reserved |
 | `rest` | Unallocated / Reserved | N/A |
 
 ---
